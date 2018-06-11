@@ -53,9 +53,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Making Sense of Cryptoeconomics by Josh Stark
-1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) What is Cryptoeconomics, a guide by BlockGeeks <----/////
+1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) What is Cryptoeconomics, a guide by BlockGeeks 
 1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
-1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)  -------/////
 1.  [Vivek Singh's Cryptoeconomics in context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
 1.  [Cryptoeconomics Definitions Part 1](https://cryptoeconomics.asia/2017/09/04/cryptoeconomics-definitions-p1/), [Part 2](https://cryptoeconomics.asia/2017/09/05/cryptoeconomics-definition/) and [Part 3](https://cryptoeconomics.asia/2017/09/25/cryptoeconomics-definitions-blockchain-economics/)
 1.  [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) by RMIT Blockchain Innovation Hub
